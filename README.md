@@ -29,7 +29,6 @@ This project demonstrates advanced NLP, information extraction, summarization, a
 1. **Clone or Unzip the Repository**
    ```bash
    git clone https://github.com/melkemk/task3.git
-   cd task3
    ```
 2. **Create a Virtual Environment (Recommended)**
    ```bash
@@ -106,5 +105,3 @@ The agent will:
 ## License & Attribution
 - Dataset: [Kaggle News Category Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset)
 - Code: (c) 2025 Melke for Eskalate ML/DS Interview
-# task3
-# task3
